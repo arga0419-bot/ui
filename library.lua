@@ -728,7 +728,7 @@ function Library.CreateWindow(config)
 	UserBadge.Position = UDim2.new(0, 38, 0, 21)
 	UserBadge.BackgroundTransparency = 1
 	UserBadge.FontFace = FONT_MEDIUM
-	UserBadge.Text = "BETA"
+	UserBadge.Text = "Violence Discrtic"
 	UserBadge.TextColor3 = COLOR_TEXT_SUB
 	UserBadge.TextSize = 11
 	UserBadge.TextXAlignment = Enum.TextXAlignment.Left
